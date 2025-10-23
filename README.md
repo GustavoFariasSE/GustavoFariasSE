@@ -16,7 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Estudante de Engenharia de Software, tenho conhecimento avançado em Java e MySQL, além de experiência com os frameworks Spring, Spring Boot e JavaFX. Também possuo conhecimentos básicos em HTML e CSS, que me permitem ter uma boa noção de integração entre front-end e back-end.<br><br>Atualmente estou aprofundando meus estudos em desenvolvimento de aplicações web com foco em boas práticas, arquitetura limpa e APIs REST.<br><br>Busco uma oportunidade de estágio onde eu possa aplicar e ampliar meus conhecimentos, contribuir com projetos reais e evoluir junto com a equipe. Estou sempre aberto a aprender, crescer e colaborar.</h3>
+<h3 align="left">💻 Com uma base sólida em desenvolvimento back-end decidi expandir meu horizonte tecnológico e atualmente estou me especializando no ecossistema C# .NET. Acredito que a versatilidade e a compreensão de múltiplas plataformas são diferenciais cruciais para um desenvolvedor moderno.
+
+Minha experiência prática me permitiu internalizar e aplicar os princípios SOLID, garantindo a criação de código limpo, mantenível, escalável e de alta qualidade, independentemente da linguagem.
+
+Além da paixão por código, possuo um forte interesse em assumir responsabilidades de liderança. Gosto de motivar equipes, compartilhar conhecimento, facilitar a colaboração e ajudar a guiar projetos para o sucesso, sempre aliando a visão técnica à gestão de pessoas..</h3>
 
 ###
 
